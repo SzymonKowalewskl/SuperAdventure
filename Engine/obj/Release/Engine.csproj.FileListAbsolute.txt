@@ -1,0 +1,6 @@
+C:\Users\szymo\source\repos\SuperAdventure\Engine\bin\Release\Engine.dll
+C:\Users\szymo\source\repos\SuperAdventure\Engine\bin\Release\Engine.pdb
+C:\Users\szymo\source\repos\SuperAdventure\Engine\obj\Release\Engine.csprojAssemblyReference.cache
+C:\Users\szymo\source\repos\SuperAdventure\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+C:\Users\szymo\source\repos\SuperAdventure\Engine\obj\Release\Engine.dll
+C:\Users\szymo\source\repos\SuperAdventure\Engine\obj\Release\Engine.pdb
